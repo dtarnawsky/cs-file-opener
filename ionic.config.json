@@ -1,0 +1,7 @@
+{
+  "name": "cs-file-opener",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
